@@ -1,0 +1,67 @@
+[
+  {
+    "candidate_name": "priya_sharma",
+    "final_score": 7.9,
+    "scores": {
+      "skills_match": 9.0,
+      "experience_relevance": 8.5,
+      "education_certs": 7.5,
+      "project_portfolio": 7.0,
+      "communication_quality": 5.5
+    },
+    "recommendation": "Yes",
+    "executive_summary": "priya_sharma — summary not generated."
+  },
+  {
+    "candidate_name": "rahul_verma",
+    "final_score": 7.75,
+    "scores": {
+      "skills_match": 9.0,
+      "experience_relevance": 8.5,
+      "education_certs": 6.5,
+      "project_portfolio": 7.0,
+      "communication_quality": 5.5
+    },
+    "recommendation": "Yes",
+    "executive_summary": "rahul_verma — summary not generated."
+  },
+  {
+    "candidate_name": "vikram_nair",
+    "final_score": 7.35,
+    "scores": {
+      "skills_match": 9.0,
+      "experience_relevance": 7.5,
+      "education_certs": 7.5,
+      "project_portfolio": 6.0,
+      "communication_quality": 4.5
+    },
+    "recommendation": "Yes",
+    "executive_summary": "vikram_nair — summary not generated."
+  },
+  {
+    "candidate_name": "meera_pillai",
+    "final_score": 7.05,
+    "scores": {
+      "skills_match": 8.0,
+      "experience_relevance": 7.5,
+      "education_certs": 7.5,
+      "project_portfolio": 6.0,
+      "communication_quality": 4.5
+    },
+    "recommendation": "Yes",
+    "executive_summary": "meera_pillai — summary not generated."
+  },
+  {
+    "candidate_name": "ananya_krishnan",
+    "final_score": 6.85,
+    "scores": {
+      "skills_match": 9.0,
+      "experience_relevance": 5.5,
+      "education_certs": 7.5,
+      "project_portfolio": 6.0,
+      "communication_quality": 4.5
+    },
+    "recommendation": "Maybe - Needs Review",
+    "executive_summary": "ananya_krishnan — summary not generated."
+  }
+]

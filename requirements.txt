@@ -1,0 +1,23 @@
+# Core LLM — only ONE needed
+anthropic>=0.25.0          # Option 1: Anthropic Claude
+httpx>=0.27.0              # Option 2: HuggingFace (uses httpx for API calls)
+
+# App framework
+streamlit>=1.35.0
+
+# Data validation (prevents hallucinated scores)
+pydantic>=2.0.0
+
+# Resume parsing
+pymupdf>=1.24.0
+python-docx>=1.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+pandas>=2.0.0
+
+# Audit trail
+sqlitedict>=2.1.0
+
+# Optional: observability tracing
+# langsmith>=0.1.0
